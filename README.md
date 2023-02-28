@@ -43,3 +43,6 @@ To rotate the drone right :
 
 To rotate the drone left : 
     my_pluto.left_yaw()
+
+
+ENSURE YOU WRITE ALL THE PYTHON FILES IN THE SAME DIRECTORY WHERE plutoMultiwii and Pluto SCRIPTS ARE PRESENT
