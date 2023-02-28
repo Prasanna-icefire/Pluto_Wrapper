@@ -7,5 +7,6 @@ my_pluto.arm()# Arm your Pluto Drone
 time.sleep(5)
 
 my_pluto.disarm()# Disarm your pluto Drone
+exit()
 
 
