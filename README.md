@@ -8,7 +8,7 @@ Go ahead and pull up the terminal and type:
 Usage : 
 
 The Pluto.py has the class with which we need to create drone Object.
-Look into the example script at plutoControl.py and replicate the same.
+Look into the example script and replicate the same.
 The script arms the drone and keeps it spinning for 5 seconds before disarming.
 
 In the script, my_pluto is the object created.
