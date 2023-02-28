@@ -1,4 +1,4 @@
-from plutoMultiwii import *
+from pluto_wrapper.plutoMultiwii import *
 from threading import Thread
 import time
 
