@@ -23,23 +23,23 @@ To disarm :
 To Takeoff :
     my_pluto.take_off()
 
-To land:
+To land : 
     my_pluto.land()
 
-To move the drone forward()
+To move the drone forward() : 
     my_pluto.forward()
 
-To move the drone backward()
+To move the drone backward() : 
     my_pluto.backward()
 
-To move the drone left
+To move the drone left : 
     my_pluto.left()
 
-To move the drone right
+To move the drone right : 
     my_pluto.right()
 
-To rotate the drone right
+To rotate the drone right : 
     my_pluto.right_yaw()
 
-To rotate the drone left
+To rotate the drone left : 
     my_pluto.left_yaw()
