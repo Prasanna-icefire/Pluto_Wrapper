@@ -35,8 +35,8 @@ To move the drone backward()
 To move the drone left
     my_pluto.left()
 
-To move the drone left
-    my_pluto.left()
+To move the drone right
+    my_pluto.right()
 
 To rotate the drone right
     my_pluto.right_yaw()
